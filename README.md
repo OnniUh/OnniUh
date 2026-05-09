@@ -13,9 +13,9 @@
 
 *Building things that live on the internet.*
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talha)
+[![Discord](https://img.shields.io/badge/onniuhh-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/onniuhh)
+[![Instagram](https://img.shields.io/badge/onniuh-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onniuh/)
+[![GitHub](https://img.shields.io/badge/OnniUh-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnniUh)
 
 </div>
 
